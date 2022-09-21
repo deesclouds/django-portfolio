@@ -1,0 +1,8 @@
+venv
+wsgi.py
+settings.py
+personal_portfolio/urls.py
+asgi.py
+__pycache__
+personal_portfolio/__init__.py
+admin.py
